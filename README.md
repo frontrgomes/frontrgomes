@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho como front-end, há 5 anos
 - 📫 Contate-me no e-mail: rodrigoprofissiona2014@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronome: ele/dele
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frontrgomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
