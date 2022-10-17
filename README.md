@@ -3,10 +3,13 @@
 - 🔭 Trabalho como front-end, há quase 5 anos e sempre 
 gostei do que eu faço, mais lembro que no início até pensei 
 em desistir, mais se tivesse desistido não teria chegado até aqui. 
-E hoje sou grato a Deus pela conquista.
+E hoje sou grato a Deus pela conquista. 
+<b>Hoje são mais de 200 sites entregues.</b>
 
 - 📫 Contate-me no e-mail: rodrigoprofissiona2014@gmail.com
 - 😄 Pronome: ele/dele
+
+
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frontrgomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
