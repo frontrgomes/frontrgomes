@@ -1,4 +1,4 @@
-### Olá eu sou o Rodrigo e esse é meu github pessoal.
+### Olá eu sou o Rodrigo, e esse é meu github pessoal.
 
 - 🔭 Trabalho como front-end, há quase 5 anos e sempre 
 gostei do que eu faço, mais lembro que no início até pensei 
