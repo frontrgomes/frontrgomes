@@ -1,6 +1,10 @@
-### Olá eu sou o Rodrigo
+### Olá eu sou o Rodrigo e esse é meu github pessoal.
 
-- 🔭 Trabalho como front-end, há 5 anos
+- 🔭 Trabalho como front-end, há quase 5 anos e sempre 
+gostei do que eu faço, mais lembro que no início até pensei 
+em desistir, mais se tivesse desistido não teria chegado até aqui. 
+E hoje sou grato a Deus pela conquista.
+
 - 📫 Contate-me no e-mail: rodrigoprofissiona2014@gmail.com
 - 😄 Pronome: ele/dele
 
