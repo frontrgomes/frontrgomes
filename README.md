@@ -4,7 +4,7 @@
 gostei do que eu faço, mais lembro que no início até pensei 
 em desistir, mais se eu estivesse desistido não teria chegado até aqui. 
 E hoje sou grato a Deus pela conquista! 
-<b>Hoje são mais de 200 sites entregues.</b>
+<b>Hoje são mais de 100 sites entregues.</b>
 
 - 📫 Contate-me no e-mail: rodrigoprofissiona2014@gmail.com
 - 😄 Pronome: ele/dele
