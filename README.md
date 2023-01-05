@@ -1,9 +1,9 @@
 ### Olá eu sou o Rodrigo, e esse é meu github pessoal.
 
-- 🔭 Trabalho como front-end, há quase 5 anos e sempre 
+- 🔭 Trabalho como front-end, há 5 anos e sempre 
 gostei do que eu faço, mais lembro que no início até pensei 
-em desistir, mais se tivesse desistido não teria chegado até aqui. 
-E hoje sou grato a Deus pela conquista. 
+em desistir, mais se eu estivesse desistido não teria chegado até aqui. 
+E hoje sou grato a Deus pela conquista! 
 <b>Hoje são mais de 200 sites entregues.</b>
 
 - 📫 Contate-me no e-mail: rodrigoprofissiona2014@gmail.com
