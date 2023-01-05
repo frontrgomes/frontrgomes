@@ -26,11 +26,11 @@ E hoje sou grato a Deus pela conquista!
   <img align="center" alt="Rodrigo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 <img align="center" alt="Rodrigo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Rodrigo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rodrigo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Rodrigo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd.svg">
+  <img align="center" alt="Rodrigo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Rodrigo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
    <img align="center" alt="Rodrigo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Rodrigo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop.svg">
-<img align="center" alt="Rodrigo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql.svg">
+  <img align="center" alt="Rodrigo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+<img align="center" alt="Rodrigo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 <img align="center" alt="Rodrigo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
  
 
